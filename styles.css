@@ -1,0 +1,31 @@
+#title{
+    font-size: 50px;
+    color: maroon;
+    font-family: arial, sans-serif;
+    font-weight: 900;
+}
+a{
+    font-size: 20px;
+    color: turquoise;
+}
+#subtitle{
+    font-size: 25px;
+    color: turquoise;
+}
+
+li{
+    font-size: 20px;
+    color: maroon;
+}
+#gamingpcs{
+    font-size: 20px;
+    color: rgb(224, 64, 99);
+}
+#recommendations{
+    font-size: 20px;
+    color: rgb(224, 64, 99);
+}
+#CoolThings{
+    font-size: 20px;
+    color: rgb(224, 64, 99);
+}
